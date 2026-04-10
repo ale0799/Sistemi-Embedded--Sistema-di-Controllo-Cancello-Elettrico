@@ -113,7 +113,7 @@ Stati principali:
 ## Team
 
 | Cognome | Nome |
-|-------------|----------|------|
+|-------------|----------|
 | Lettieri | Alessia |
 | Napolitano | Domenico |
 | Panico | Marco | 
