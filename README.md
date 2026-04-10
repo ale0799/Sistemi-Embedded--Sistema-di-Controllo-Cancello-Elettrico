@@ -1,4 +1,3 @@
-# Sistemi-Embedded--Sistema-di-Controllo-Cancello-Elettrico
 # Sistema di Controllo Cancello Elettrico a Battente
 
 ## Informazioni Generali
