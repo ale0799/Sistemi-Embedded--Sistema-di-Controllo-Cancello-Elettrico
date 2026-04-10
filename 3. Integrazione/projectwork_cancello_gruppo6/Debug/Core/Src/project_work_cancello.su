@@ -1,0 +1,8 @@
+../Core/Src/project_work_cancello.c:93:13:Button_Init	16	static
+../Core/Src/project_work_cancello.c:104:13:Button	24	static
+../Core/Src/project_work_cancello.c:143:13:Reset	4	static
+../Core/Src/project_work_cancello.c:150:13:Reset_LV	4	static
+../Core/Src/project_work_cancello.c:156:13:Update_Time_T_C	4	static
+../Core/Src/project_work_cancello.c:166:13:Update_Time_T_L	4	static
+../Core/Src/project_work_cancello.c:176:6:project_work_cancello_step	16	static
+../Core/Src/project_work_cancello.c:661:6:project_work_cancello_initialize	8	static
