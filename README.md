@@ -5,8 +5,8 @@
 Dipartimento di Ingegneria dell’Informazione ed Elettrica e Matematica Applicata  
 Corso di Laurea Magistrale in Ingegneria Informatica  
 
-**Corso:** Sistemi Embedded (Canale I-Z)  
-**Anno Accademico:** 2023-2024  
+Corso: Sistemi Embedded (Canale I-Z)  
+Anno Accademico: 2023-2024  
 ---
 
 ## Progettazione del Sistema
