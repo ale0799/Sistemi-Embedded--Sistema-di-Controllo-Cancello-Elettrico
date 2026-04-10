@@ -73,9 +73,12 @@ Stati principali:
 ## Hardware
 
 ### Componenti
-- Pulsanti: B1, B2, B3  
-- Sensori: P1, P2  
-- LED: L1, L2, L3  
+- STM32 Nucleo G474RE
+- 3 Pulsanti (B1, B2, B3)
+- 2 Sensori (P1 ostacoli, P2 chiusura)
+- 3 LED (errore, movimento, ostacolo)
+
+    
 
 ### Pin
 
