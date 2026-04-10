@@ -111,11 +111,7 @@ Stati principali:
 
 
 ## Team
-
-| Cognome | Nome |
-|-------------|----------|
-| Lettieri | Alessia |
-| Napolitano | Domenico |
-| Panico | Marco | 
-| Passanante | Alessandro | 
-
+- Alessia Lettieri (ale0799)
+- Marco Panico (mpanico20)
+- Domenico Napolitano (Domy0909)
+- Alessandro Passannante (AlessandroPassannanteUNI)
