@@ -1,7 +1,7 @@
 # Sistema di Controllo Cancello Elettrico a Battente
 
 ## Informazioni Generali
-**Università degli Studi di Salerno**  
+Università degli Studi di Salerno
  
 Corso di Laurea Magistrale in Ingegneria Informatica  
 Progetto: Sistemi Embedded
